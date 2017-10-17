@@ -1,0 +1,3 @@
+1,What year was OSU Established?,1870,1890,1905,1920,2
+2,In 1896 OSU held its first commencement with how many graduates?,2 graduates,6 graduates,8 graduates,12 graduates,2
+3,What year did Oklahoma A&M changed its name to Oklahoma State University?,1925,1947,1957,1962,3
